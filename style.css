@@ -162,13 +162,13 @@ body{
     }
     .gif-card{
         width: 350px;
-        height: 200px;
+        height: 550px;
         padding-left: 30px;
     }
     .gif-card p{
-        font-size: 10px;
+        font-size: 18px;
         margin-top: 10px;
-        margin-left: 10px;
+        margin-left: -15px;
     }
     .container{
         height: 400px;
